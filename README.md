@@ -7,7 +7,12 @@ create-react-app firebase-react-hosting
 npm install react-router-dom --save
 npm install react-router --save
 npm install -g firebase-tools
+firebase login
+firebase init
+npm run build
+firebase deploy
 ```
+Go to https://hosting-20e05.firebaseapp.com.
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
