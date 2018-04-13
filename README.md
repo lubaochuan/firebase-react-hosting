@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 This repo contains the example app from https://medium.com/@bensigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214
+```
+npm install -g create-react-app
+create-react-app firebase-react-hosting
+npm install react-router-dom --save
+npm install react-router --save
+npm install -g firebase-tools
+```
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
